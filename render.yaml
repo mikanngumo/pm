@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: jikkennyuki
+    name: mumeiyuki
     env: python
     region: Oregon
     plan: free
